@@ -17,6 +17,8 @@ data scientist, and programmer. Aljohrah is an AI developer, data scientist,
 and programmer. Nuha has also worked great with sketching and she utilizes
 Adobe's creative digital tools like Adobe Illustrator and Photoshop. All teams
 are professional with python language.
+
+this below link of our sketches ,GAN videos
 https://drive.google.com/drive/u/1/folders/1yku0wAlvKQpR1jveYpkVEBvQL2nK-gRd
 
 ![Generate ImageDalahArt1](https://user-images.githubusercontent.com/74384259/138372895-d976a27b-44c7-418a-b8e8-ad2662c74285.png)
