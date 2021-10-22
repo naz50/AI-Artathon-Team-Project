@@ -2,6 +2,7 @@
 Generating "Dalah" in art Arabic decorative and Islamic Calligraphy and its patterns.
 This Dalah Project Demo:
 https://youtu.be/DjQ4T9bKGGw
+https://youtu.be/1vmk92a_7ag
 
 Inspiration
 Dalah (coffee pot) is a distinctive symbol that represents the Arab bedouin civilization, especially the Saudi civilization, a guide that expresses its interior and appearance with our original Bedouins. It is the meaning of cohesion and societal strength. We gathered "Dalah" with art in Islamic Arabic inscriptions and calligraphy to generate a new distinctive pattern.
