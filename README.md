@@ -1,4 +1,4 @@
-# AI-Artathon-Team-Project/Dalah Project/ArtGenerating
+# AI-Artathon-Team-Project/"Dalah Project"/ArtGenerator
 Generating "Dalah" in art Arabic decorative and Islamic Calligraphy and its patterns.
 This Dalah Project Demo:
 https://youtu.be/DjQ4T9bKGGw
