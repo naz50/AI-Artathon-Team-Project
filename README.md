@@ -19,4 +19,4 @@ are professional with python language.
 ![Generate ImageDalahArt1](https://user-images.githubusercontent.com/74384259/138372895-d976a27b-44c7-418a-b8e8-ad2662c74285.png)
 ![Generate ImageDalahArt4](https://user-images.githubusercontent.com/74384259/138372917-909b8988-e71b-4e64-aa21-7239e819385d.jpeg)
 ![Generate ImageDalahArt5](https://user-images.githubusercontent.com/74384259/138372940-c419acbd-5a8e-4e29-aba4-15441d8da34e.jpeg)
-![gan1](https://user-images.githubusercontent.com/74384259/138373098-6fd08c79-a0e9-4298-ae7b-3c26a79ff03b.jpeg)
+![Gan33](https://user-images.githubusercontent.com/74384259/138374019-92b9b2c3-21af-4692-b99a-eea193309b6b.jpeg)
